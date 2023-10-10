@@ -32,6 +32,17 @@ To explore and run these Telegram bots, follow these steps:
 
 Contributions to this repository are welcome! If you have ideas for additional Telegram bots or improvements to existing ones, feel free to fork the repository, make your changes, and submit a pull request. Let's continue to expand this collection and make it a valuable resource for Telegram bot developers.
 
+## Support
+
+You can support me by buy me a coffee if u like to.
+
+<div align="left">
+<!--   <h4>And you can also support me by <a href="https://www.buymeacoffee.com/azzar" target="_blank">buying me coffee</a></h4> -->
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
+
 ---
 
 Explore, experiment, and have fun building Telegram bots with the Telegram Bot Playground!
