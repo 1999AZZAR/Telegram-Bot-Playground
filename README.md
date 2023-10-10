@@ -4,7 +4,7 @@
 
 This Python script is designed to create a Telegram bot that converts text messages into voice responses. Users can send text messages to the bot, and it will respond with an audio recording of the text in a human-like voice. This README will guide you through setting up and running the bot effectively.
 
-## Key Features:
+## Key Features
 
 - Utilizes the python-telegram-bot library for Telegram bot functionality.
 - Simulates recording actions to enhance user experience.
@@ -42,10 +42,10 @@ To run the bot, follow these steps:
 2. Run the script:
 
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
-   Replace `your_script_name.py` with the actual name of your Python script.
+   Replace `main.py` with the actual name of your Python script if u were renamed it.
 
 3. Once the script is running, your bot should be active on Telegram.
 
