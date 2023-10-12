@@ -10,13 +10,13 @@ Telegram Bot Playground is a collection of small, standalone Telegram bots, each
 
 Here are some of the features and functions demonstrated by the Telegram bots in this repository:
 
-- [**Math Solver Bot**](simple_math_solver/main.py): A bot capable of solving mathematical expressions using the SymPy library. It showcases message handling, error handling, and result caching.
+- [**Math Solver Bot**](simple_math_solver/README.md): A bot capable of solving mathematical expressions using the SymPy library. It showcases message handling, error handling, and result caching.
 
-- [**Reminder Bot**](reminder/main.py): Schedule reminders and receive notifications at your desired time. This bot illustrates scheduling tasks and sending notifications.
+- [**Reminder Bot**](reminder/README.md): Schedule reminders and receive notifications at your desired time. This bot illustrates scheduling tasks and sending notifications.
 
-- [**Text To Speech Bot**](text_to_speech/main.py): A bot capable of turning text into speech using gtts API.
+- [**Text To Speech Bot**](text_to_speech/README.md): A bot capable of turning text into speech using gtts API.
 
-- **Translator Bot** : a simple bot that translates user messages using the Google Translate API. Users can send any message, and the bot will respond with the translation to English.
+- [**Translator Bot**](translator/README.md) : a simple bot that translates user messages using the Google Translate API. Users can send any message, and the bot will respond with the translation to English.
 
 ## Getting Started
 
