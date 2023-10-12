@@ -129,6 +129,17 @@ O --> E
 
 If you'd like to contribute to the development of the Telegram Math Solver Bot, feel free to fork the repository, make improvements or bug fixes, and submit a pull request. Your contributions are welcome!
 
+## Support
+
+You can support me by buy me a coffee if u like to.
+
+<div align="left">
+<!--   <h4>And you can also support me by <a href="https://www.buymeacoffee.com/azzar" target="_blank">buying me coffee</a></h4> -->
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
+
 ---
 
 Enjoy using the Telegram Math Solver Bot to quickly calculate mathematical expressions right within your Telegram chat! If you have any questions or encounter issues, feel free to contact the bot developer.

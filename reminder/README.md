@@ -92,6 +92,17 @@ To do this, you would need to modify the code and conversation flow accordingly.
 
 If you encounter any issues with the bot or have feedback for improvements, please feel free to create an issue in the GitHub repository or reach out to the bot developer.
 
+## Support
+
+You can support me by buy me a coffee if u like to.
+
+<div align="left">
+<!--   <h4>And you can also support me by <a href="https://www.buymeacoffee.com/azzar" target="_blank">buying me coffee</a></h4> -->
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
+
 ---
 
 Enjoy using the Reminder Bot!

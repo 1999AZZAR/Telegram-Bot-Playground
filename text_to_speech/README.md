@@ -134,4 +134,17 @@ You can customize the bot's behavior by modifying the script according to your p
 
 This bot is meant for educational and experimental purposes. Be sure to respect privacy and use it responsibly. Please note that gTTS is an external service, and its availability and performance may vary.
 
+## Support
+
+You can support me by buy me a coffee if u like to.
+
+<div align="left">
+<!--   <h4>And you can also support me by <a href="https://www.buymeacoffee.com/azzar" target="_blank">buying me coffee</a></h4> -->
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
+
+---
+
 Enjoy using your Telegram Text-to-Speech Bot! If you encounter any issues or have questions, feel free to reach out for assistance.

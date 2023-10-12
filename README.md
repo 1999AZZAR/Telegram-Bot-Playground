@@ -16,6 +16,8 @@ Here are some of the features and functions demonstrated by the Telegram bots in
 
 - [**Text To Speech Bot**](text_to_speech/main.py): A bot capable of turning text into speech using gtts API.
 
+- **Translator Bot** : a simple bot that translates user messages using the Google Translate API. Users can send any message, and the bot will respond with the translation to English.
+
 ## Getting Started
 
 To explore and run these Telegram bots, follow these steps:
