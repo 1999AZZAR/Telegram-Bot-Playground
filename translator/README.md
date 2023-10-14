@@ -30,7 +30,7 @@ Before you begin, ensure you have the following:
 
 ## Configuration
 
-1. Open the `bot.py` file using a text editor of your choice.
+1. Open the `main.py` file using a text editor of your choice.
 
 2. Replace `'YOUR_BOT_TOKEN'` with your actual Telegram bot token obtained from the BotFather:
 

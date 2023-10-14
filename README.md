@@ -18,7 +18,9 @@ Here are some of the features and functions demonstrated by the Telegram bots in
 
 - [**Text To Speech Bot**](text_to_speech/README.md): A Telegram bot that converts text messages into voice responses. Users can send text messages to the bot, and it will respond with an audio recording of the text in a human-like voice.
 
-- [**Translator Bot**](translator/README.md) : A simple bot that translates user messages using the Google Translate API. Users can send any message, and the bot will respond with the translation to English.
+- [**Translator Bot**](translator/README.md): A simple bot that translates user messages using the Google Translate API. Users can send any message, and the bot will respond with the translation to English.
+
+- [**Trivia Quiz Bot**](trivia_quiz/README.md): A simple Python Telegram bot that allows you to create a trivia quiz game. The bot asks users trivia questions, keeps track of their scores, and provides feedback on their answers
 
 ## Getting Started
 
